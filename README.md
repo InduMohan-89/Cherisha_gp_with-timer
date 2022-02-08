@@ -1,2 +1,2 @@
-# Cherisha_gp_with-timer
-Timer is added with 10 minutes duration
+# p5.play-boilerplate
+Boiler plate for p5.play
